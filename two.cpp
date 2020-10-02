@@ -3,7 +3,6 @@ using namespace std;
 int main()
 {
     string s1="geksfor";
-    set<int> s;
     int flag=0;
     for(int i=0;i<s1.length();i++)
     {
